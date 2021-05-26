@@ -1,7 +1,7 @@
-### Hi there 👋
+### Hi there  I am _**kamrul**_ 👋
 
 
-**kamrulcoder/kamrulcoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I am **Kamrul hasan**. I am  a passionate self-taught web web designer from Bangladesh.
 
 Here are some ideas to get you started:
 
