@@ -18,6 +18,6 @@ Here are some ideas to get you started:
  1. **[Changer Background color in vinilla javascript ](https://kamrulcoder.github.io/changer_background/)**   <br>
  1. **[hex Radnom Changer Background color in vinilla javascript ](https://kamrulcoder.github.io/Hex_background_coor_change/)** 
  1. **[Quote Random change text  vinnila project  ](https://kamrulcoder.github.io/rando_quote_generator/)** 
- 1. **[Quote Random change text  vinnila project  ](https://kamrulcoder.github.io/pass-to-message/)** 
+ 1. **[Pass the message   ](https://kamrulcoder.github.io/pass-to-message/)** 
  
 
