@@ -29,5 +29,7 @@ Here are some ideas to get you started:
  1. **[ Hex Changer Background color in vinilla javascript ](https://kamrulcoder.github.io/hex-change-background-color/)** 
  1. **[ Random Qoute project  in vinilla javascript ](https://kamrulcoder.github.io/random-quotes-project/)** 
  1. **[ Pass the message  in vinilla javascript ](https://kamrulcoder.github.io/pass-the-message-vinilla-js/)** 
+ 1. **[ Counter Project   in vinilla javascript ](https://kamrulcoder.github.io/counter-project-vinilla-js/)** 
+ 2. 
  
 
