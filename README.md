@@ -25,6 +25,6 @@ Here are some ideas to get you started:
 
 ##  Vinilla javascript  Practice  Project 
 
- 1. **[Changer Background color in vinilla javascript ](https://kamrulcoder.github.io/changer_background/)** 
+ 1. **[Changer Background color in vinilla javascript ](https://kamrulcoder.github.io/change-background-color/)** 
  
 
