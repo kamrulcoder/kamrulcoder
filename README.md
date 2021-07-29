@@ -26,5 +26,6 @@ Here are some ideas to get you started:
 ##  Vinilla javascript  Practice  Project 
 
  1. **[Changer Background color in vinilla javascript ](https://kamrulcoder.github.io/change-background-color/)** 
+ 1. **[ Hex Changer Background color in vinilla javascript ](https://kamrulcoder.github.io/hex-change-background-color/)** 
  
 
