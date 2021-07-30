@@ -26,10 +26,15 @@ Here are some ideas to get you started:
 ##  Vinilla javascript  Practice  Project 
 
  1. **[Changer Background color in vinilla javascript ](https://kamrulcoder.github.io/change-background-color/)** 
- 1. **[ Hex Changer Background color in vinilla javascript ](https://kamrulcoder.github.io/hex-change-background-color/)** 
- 1. **[ Random Qoute project  in vinilla javascript ](https://kamrulcoder.github.io/random-quotes-project/)** 
- 1. **[ Pass the message  in vinilla javascript ](https://kamrulcoder.github.io/pass-the-message-vinilla-js/)** 
- 1. **[ Counter Project   in vinilla javascript ](https://kamrulcoder.github.io/counter-project-vinilla-js/)** 
- 2. 
+      -  **[Repository Link](https://github.com/kamrulcoder/change-background-color)**
+ 3. **[ Hex Changer Background color in vinilla javascript ](https://kamrulcoder.github.io/hex-change-background-color/)** 
+    -  **[Repository Link](https://github.com/kamrulcoder/hex-change-background-color)**
+ 5. **[ Random Qoute project  in vinilla javascript ](https://kamrulcoder.github.io/random-quotes-project/)** 
+    1.  **[Repository Link](https://github.com/kamrulcoder/random-quotes-project) **
+ 7. **[ Pass the message  in vinilla javascript ](https://kamrulcoder.github.io/pass-the-message-vinilla-js/)** 
+    -  **[Repository Link](https://github.com/kamrulcoder/pass-the-message-vinilla-js)**
+ 9. **[ Counter Project   in vinilla javascript ](https://kamrulcoder.github.io/counter-project-vinilla-js/)** 
+    -  **[Repository Link ](https://github.com/kamrulcoder/counter-project-vinilla-js)**
+  
  
 
