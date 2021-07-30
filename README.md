@@ -66,7 +66,7 @@ Here are some ideas to get you started:
 
 > **[ background  Image  Slider   in vinilla javascript ](https://kamrulcoder.github.io/background-image-slider/)** 
 >
->>  6.  **[Repository Link ](https://github.com/kamrulcoder/background-image-slider/settings)**
+>>  6.  **[Repository Link ](https://github.com/kamrulcoder/background-image-slider/)**
 
     
   
