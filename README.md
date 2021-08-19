@@ -20,6 +20,11 @@ Here are some ideas to get you started:
 >> 1.  **[Repository Link](https://github.com/kamrulcoder/digital-clock-js)**
 
 
+>  **[Analog Clock in js](https://kamrulcoder.github.io/analog-clock-js/)** 
+> 
+>> 1.  **[Repository Link](https://github.com/kamrulcoder/analog-clock-js)**
+
+
 ## Programming  Hero Practice Project 
 
 > **[Football  website  Project   ](https://kamrulcoder.github.io/football-website/)** 
