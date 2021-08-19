@@ -14,6 +14,12 @@ Here are some ideas to get you started:
 - 😄 email : kamrulcoder@gmail.com
 
 
+> ## javascript vinalla javascript  practice 
+> > **[Digital Clock in js](https://kamrulcoder.github.io/digital-clock-js/)** 
+>
+>> 1.  **[Repository Link](https://github.com/kamrulcoder/digital-clock-js)**
+
+
 ## Programming  Hero Practice Project 
 
 > **[Football  website  Project   ](https://kamrulcoder.github.io/football-website/)** 
