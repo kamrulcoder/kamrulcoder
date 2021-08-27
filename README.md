@@ -6,9 +6,8 @@
 
 
                                         
-> Programming is my passion, fashion, and obsession. As a programming's fan,  I love to roam the world of programming. <br> I have won JavaScript(React), Node, Mongo, Rest API and done several projects. Also, I am ready to deal with the new <br> technology and the challenges that come with it.
+>  <span style="color:red"> **Programming is my passion, fashion, and obsession. As a programming's fan,  I love to roam the world of programming. <br> I have won JavaScript(React), Node, Mongo, Rest API and done several projects. Also, I am ready to deal with the new <br> technology and the challenges that come with it.**</span>
 
-Hi, I am **Kamrul hasan**. I am  a passionate self-taught web web designer from Bangladesh.
 
 Here are some ideas to get you started:
 
@@ -56,8 +55,6 @@ Here are some ideas to get you started:
 > **[Honda  website project  ](https://sharp-mccarthy-3dbcbc.netlify.app/)**  
 >
 >> 4.  **[Repository Link]()**
-
-
 
 
 
