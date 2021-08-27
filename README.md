@@ -1,5 +1,12 @@
 ### Hi there  I am _**kamrul**_ 👋
 
+<p align="center">
+<img src="https://user-images.githubusercontent.com/22797857/90096358-dba16400-dd54-11ea-8e44-e181ada72661.gif" width="300" height="300" align="center">
+</p>
+
+
+                                        
+> Programming is my passion, fashion, and obsession. As a programming's fan,  I love to roam the world of programming. I have won JavaScript(React), Node, Mongo, Rest API and done several projects. Also, I am ready to deal with the new technology and the challenges that come with it.
 
 Hi, I am **Kamrul hasan**. I am  a passionate self-taught web web designer from Bangladesh.
 
