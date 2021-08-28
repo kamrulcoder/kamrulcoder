@@ -48,6 +48,8 @@ Here are some ideas to get you started:
 | 08 | [Analog Clock in js](https://github.com/kamrulcoder/analog-clock-js)                             | [Live Demo](https://kamrulcoder.github.io/analog-clock-js/)              |
 | 09  | [Filter List in js](https://github.com/kamrulcoder/filter-list-js)                               | [Live Demo](https://kamrulcoder.github.io/filter-list-js/)               |
 | 10  | [weather-app-api](https://github.com/kamrulcoder/weather-app-api)                               | [Live Demo](https://kamrulcoder.github.io/weather-app-api/)               |
+| 11  | [filter Product project ](https://github.com/kamrulcoder/filter-product-project)                               | [Live Demo](https://kamrulcoder.github.io/filter-product-project/)
+| 12  | [Testomonial Image slider  ](https://github.com/kamrulcoder/testomonial-image-slider)                               | [Live Demo](https://kamrulcoder.github.io/testomonial-image-slider/)    |
 
 
 
