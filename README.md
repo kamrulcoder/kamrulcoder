@@ -34,19 +34,13 @@ Here are some ideas to get you started:
 
 
  ## javascript vinalla javascript  practice 
->  **[Digital Clock in js](https://kamrulcoder.github.io/digital-clock-js/)** 
-> 
->> 1.  **[Repository Link](https://github.com/kamrulcoder/digital-clock-js)**
 
 
->  **[Analog Clock in js](https://kamrulcoder.github.io/analog-clock-js/)** 
-> 
->> 1.  **[Repository Link](https://github.com/kamrulcoder/analog-clock-js)**
-
-
->  **[Filter List in js ](https://kamrulcoder.github.io/filter-list-js/)** 
-> 
->> 1.  **[Repository Link](https://github.com/kamrulcoder/filter-list-js)**
+|  #  | Project                                                                                                                     | Live Demo                                                                         |
+| :-: | --------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
+| 01  | [Digital Clock in js](https://github.com/kamrulcoder/digital-clock-js)                             | [Live Demo](https://kamrulcoder.github.io/digital-clock-js/)               |
+| 02  | [Analog Clock in js](https://github.com/kamrulcoder/analog-clock-js)                               | [Live Demo](https://kamrulcoder.github.io/analog-clock-js/)                |
+| 03  | [Filter List in js](https://github.com/kamrulcoder/filter-list-js)                       | [Live Demo](https://kamrulcoder.github.io/filter-list-js/) 
 
 
 ## Programming  Hero Practice Project 
