@@ -51,6 +51,8 @@ Here are some ideas to get you started:
 | 11  | [filter Product project ](https://github.com/kamrulcoder/filter-product-project)                               | [Live Demo](https://kamrulcoder.github.io/filter-product-project/)
 | 12  | [Testomonial Image slider  ](https://github.com/kamrulcoder/testomonial-image-slider)                               | [Live Demo](https://kamrulcoder.github.io/testomonial-image-slider/)    |
 
+| 12  | [Accordion W3schools  ](https://github.com/kamrulcoder/accordion-w3schools)                               | [Live Demo](https://kamrulcoder.github.io/accordion-w3schools/)    |
+
 
 
 
