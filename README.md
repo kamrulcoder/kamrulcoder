@@ -47,6 +47,7 @@ Here are some ideas to get you started:
 | 07  |  [Digital Clock in js](https://github.com/kamrulcoder/digital-clock-js)                       | [Live Demo](https://kamrulcoder.github.io/digital-clock-js/)                      |
 | 08 | [Analog Clock in js](https://github.com/kamrulcoder/analog-clock-js)                             | [Live Demo](https://kamrulcoder.github.io/analog-clock-js/)              |
 | 09  | [Filter List in js](https://github.com/kamrulcoder/filter-list-js)                               | [Live Demo](https://kamrulcoder.github.io/filter-list-js/)               |
+| 10  | [weather-app-api](https://github.com/kamrulcoder/weather-app-api)                               | [Live Demo](https://kamrulcoder.github.io/weather-app-api/)               |
 
 
 
