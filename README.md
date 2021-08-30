@@ -36,7 +36,7 @@ Here are some ideas to get you started:
  ## javascript vinalla javascript  practice 
 
 
-|  #  | Project                                                                                                                     | Live Demo                                                                         |
+|  SL NO.  | Project                                                                                                                     | Live Demo                                                                         |
 | :-: | --------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
 | 01  | [Changer Background color in vinilla javascript ](https://github.com/kamrulcoder/change-background-color)                             | [Live Demo](https://kamrulcoder.github.io/change-background-color/)               |
 | 02  | [Hex Changer Background color in vinilla javascript ](https://github.com/kamrulcoder/hex-change-background-color)                               | [Live Demo](https://kamrulcoder.github.io/hex-change-background-color/)               |
