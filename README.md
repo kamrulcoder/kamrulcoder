@@ -15,7 +15,7 @@ Here are some ideas to get you started: -->
 
 <img  src="./thoughtworks-gif_dribbble.gif" height="290px" align="right" />
 
-- 🙋‍♂️ All about me is at **[My Website](amrul-portfolio.netlify.app)**
+- 🙋‍♂️ All about me is at **[My Website](https://kamrul-portfolio.netlify.app/)**
 
 - 🔭 I’m currently working on `Something Intresting`.
 
@@ -62,7 +62,7 @@ Here are some ideas to get you started: -->
 ## ❤️ Let's get connected:
 
 <p>
-  <a href="amrul-portfolio.netlify.app" target="_blank"><img src='https://svgshare.com/i/d_D.svg' title='' /></a> 
+  <a href="https://kamrul-portfolio.netlify.app/" target="_blank"><img src='https://svgshare.com/i/d_D.svg' title='' /></a> 
   <a href="#" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"  height="30px"/></a> 
   <a href="https://www.linkedin.com/in/kamrul-hasan-246179227/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  height="30px"/></a> 
   <a href="#" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"  height="30px"/></a>
