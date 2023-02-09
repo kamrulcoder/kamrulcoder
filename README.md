@@ -68,4 +68,6 @@ Here are some ideas to get you started: -->
   <a href="#" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"  height="30px"/></a>
 </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kamrulcoder&show_icons=true&locale=en&layout=compact" alt="kamrulcoder" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kamrulcoder&show_icons=true&locale=en" alt="kamrulcoder" /></p>
